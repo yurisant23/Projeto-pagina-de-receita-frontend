@@ -1,0 +1,1 @@
+Projeto de uma página de receitas com foco em exercitar e melhorar meu conhecimento em html e css. Recebemos o projeto todo estruturado no FIGMA e fomos desenvolvendo a parte do código, consegui desenvolver meu conhecimento com margin, padding, alinhamento e muitas outras coisas.  
